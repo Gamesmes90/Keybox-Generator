@@ -1,0 +1,6 @@
+keybox-generator/*.xml
+keybox-generator/certs/*
+!keybox-generator/certs/.gitkeep
+keybox-generator/*.crt
+keybox-generator/*.key
+keybox-generator/__pycache__
